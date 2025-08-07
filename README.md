@@ -69,7 +69,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://www.loom.com/share/29c399af44ac4cb6a980853382a232d8?sid=9bff4c1d-421b-4545-bf40-112cbd792822
+https://www.loom.com/share/0b8d8e8afde74840a08c6f4fe993e643?sid=a0c78025-0fc3-4ca0-a7f7-c2cbb5adaa67
 
 
 
